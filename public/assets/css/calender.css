@@ -1,0 +1,95 @@
+
+.calender_ .card {
+    border-radius: 0;
+    background: #0f3057;
+    overflow: hidden;
+    color: #ffffff;
+}
+.calender_ .bg-danger {
+    background-color: #b93303!important;
+}
+.calender_ .card-header {
+    background: #b93303;
+    color: #fff;
+}
+.calender_ .card-header .prevMonth {
+    cursor: pointer;
+}
+.calender_ .card-header .nextMonth {
+    cursor: pointer;
+}
+.calender_ .card-body .days span {
+    background: #0f3057;
+    color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+    cursor: pointer;
+}
+.calender_ .card-body .dates span {
+    background: #0f3057;
+    color: #ffffff;
+    border-radius: 10px;
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+    cursor: pointer;
+}
+.calender_ .card-body .dates span.active, .calender_ .card-body .dates span:hover {
+    background: #b93303;
+    color: #ffffff;
+}
+.calender_ .card-body .dates span.ntMonth {
+    color: #ffffff;
+}
+.calender_ .card-body .dates span.ntMonth:hover {
+    color: #ffffff;
+}
+.calender_ .card#event .card-header .close {
+    color: #fff;
+    opacity: 1;
+}
+.calender_ .events-today h5{
+    color: #ffffff;
+}
+#createEvent{
+    background: #b93303;
+    padding: 0 20px;
+    border-radius: 0;
+    margin-left: 10px;
+}
+.calender_ .card#event .card-body .events-today {
+    height: 210px;
+    overflow-x: hidden;
+}
+.calender_ .card#event .card-body .events-input .data-invalid {
+    border-color: red;
+}
+.calender_ .card#event .card-body .events-input .error {
+    font-size: 12px;
+    color: red;
+    position: absolute;
+    top: 100%}
+@media(max-width: 767px) {
+    .calender_ .pa-sm {
+        position: absolute;
+    }
+    .calender_ .card-body .days span {
+        height: 38px;
+        width: 38px;
+        line-height: 38px;
+        font-size: .8rem;
+    }
+    .calender_ .card-body .dates span {
+        height: 38px;
+        width: 38px;
+        line-height: 38px;
+        font-size: .8rem;
+    }
+    .calender_ .card#event .card-body .events-today {
+        height: 188px;
+    }
+}

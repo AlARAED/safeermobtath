@@ -1,0 +1,140 @@
+@media (max-width: 479px) {
+    .std_reg .std_notes {
+        margin: 15px auto 0 15px !important;
+    }
+    #verificationModal .modal-content {
+        padding: 10px;
+    }
+    #verificationModal .modal-footer button {
+        padding: 10px 15px 13px;
+    }
+    .set_appointments select, .choose_teacher select {
+        width: 60%;
+    }
+    .custom-checkbox .custom-control-label::before {
+        left: -1.5rem;
+    }
+    .set_appointments .scholarship .btn_complete {
+        padding: 0 !important;
+        width: 50%;
+    }
+    .profile_bg {
+        padding: 40px 10px;
+    }
+    .recharge label {
+        margin: 0 5px;
+    }
+    .recharge [type=radio]:checked + .checked_img {
+        padding: 50px 15px;
+    }
+    .recharge img {
+        width: 50px;
+    }
+    .heig_255 {
+        height: 150px;
+    }
+    .recharge .col-12 label {
+        margin-bottom: 10px;
+    }
+    input[type=checkbox]+label {
+        padding-right: 0;
+    }
+    .appoin_check .custom-checkbox{
+        padding-left: 0;
+    }
+    .recharge .scholarship button {
+        width: 60%;
+    }
+    .determine_city {
+        width: 50%;
+    }
+    .attach_works button {
+        padding: 50px 20px 80px;
+    }
+    .contact_safeer input, .contact_safeer textarea, .contact_safeer select {
+        width: 100%;
+    }
+    .prof_info {
+        padding-right: 20px;
+        font-size: 16px;
+    }
+    .profile_bg .col-12{
+        margin-bottom: 15px !important;
+    }
+    .prof_content h5 {
+        margin-right: 10px;
+        font-size: 14px;
+    }
+    .prof_content p {
+        font-size: 13px;
+    }
+    .border__ {
+        border-right: none;
+    }
+    .prof_content .col-12{
+        display: block !important;
+    }
+    .prof_content .col-12 .ml-auto.w_max_content{
+        margin: 0 !important;
+    }
+    .service_prof .btn_newsletter.ml-auto{
+        margin: 0 !important;
+    }
+    .ev_time_table {
+        position: static;
+    }
+    .feature-image .popup-video .popup-vimeo i {
+        font-size: 12px;
+    }
+    .font_17 {
+        font-size: 15px;
+    }
+    .messages_profile {
+        position: static;
+        margin-bottom: 20px;
+    }
+    .search_teacher .profile_bg .appoin_check.d-flex{
+        display: block !important;
+        text-align: left;
+        margin-left: 20px;
+    }
+    .s_rating{
+        margin-bottom: 10px;
+    }
+    .search_teacher .profile_bg {
+        padding: 20px 40px;
+    }
+    .search_teacher .prof_img, .search_teacher .profile-rating, .search_teacher .text-left {
+        margin: 10px auto;
+        width: max-content;
+    }
+    i.m_0_50 {
+        margin: 0 20px;
+    }
+    .search_teacher .profile_bg .btn_newsletter {
+        width: 150px;
+        margin-right: auto !important;
+        margin-left: 0 !important;
+    }
+    .std_reg .scholarship .btn_complete, .profile_complete .scholarship .btn_complete, .set_appointments .scholarship .btn_complete {
+        padding: 0 50px !important;
+    }
+    .correspondence_teacher .prof_head {
+        padding: 20px 15px 50px;
+    }
+    .p_0_120 {
+        padding: 0 15px;
+    }
+    .corres_response {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .corresp_btn {
+        position: static;
+    }
+    .profile_username {
+        margin: 20px auto 10px !important;
+        width: auto;
+    }
+
+}

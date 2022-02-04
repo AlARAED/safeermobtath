@@ -1,0 +1,24 @@
+/*@font-face {*/
+  /*font-family: "Almarai";*/
+  /*font-style: normal;*/
+  /*font-weight: 400;*/
+  /*src: url("../../fonts/almarai/ArbFONTS-Almarai-ExtraBold.ttf") format("truetype");*/
+/*}*/
+@font-face {
+  font-family: "Almarai";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../../fonts/almarai/ArbFONTS-Almarai-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Almarai";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../fonts/almarai/ArbFONTS-Almarai-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Almarai";
+  font-style: normal;
+  font-weight: 100;
+  src: url("../../fonts/almarai/ArbFONTS-Almarai-Light.ttf") format("truetype");
+}

@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Noor";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../../fonts/noor/ArbFONTS-AGCBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Noor";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../../fonts/noor/ArbFONTS-AGCRegular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Noor";
+  font-style: normal;
+  font-weight: 100;
+  src: url("../../fonts/noor/ArbFONTS-AGCLight.ttf") format("truetype");
+}

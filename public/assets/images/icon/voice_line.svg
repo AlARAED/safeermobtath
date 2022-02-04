@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="voice_line" clip-path="url(#clip-path)">
+    <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" fill="rgba(255,255,255,0)"/>
+    <path id="Icon_color" data-name="Icon color" d="M20,10.492v1a.5.5,0,0,1-.5.5h-.68a2,2,0,0,1-2-1.615L15.21,2.138a.22.22,0,0,0-.41,0L12.17,16.179a2.239,2.239,0,0,1-4.37.13L5.26,6.139a.21.21,0,0,0-.2-.16H4.87a.22.22,0,0,0-.2.14l-1.49,4.5A2,2,0,0,1,1.28,12H.5a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h.78l1.5-4.5A2.2,2.2,0,0,1,4.87,3.973h.19A2.211,2.211,0,0,1,7.2,5.648l2.54,10.2a.21.21,0,0,0,.2.16c.16,0,.24-.07.26-.17L12.83,1.8a2.209,2.209,0,0,1,4.34,0L18.82,9.99h.68A.5.5,0,0,1,20,10.492Z" transform="translate(2 3.012)"/>
+  </g>
+</svg>
